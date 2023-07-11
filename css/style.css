@@ -173,14 +173,23 @@ body{
   margin-bottom: 20px;
 
 }
+.flower-desc{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px; 
+}
 .flower-side-img{
     display: flex;
-    gap: 24px;
-    width: 80%;
+    gap: 18px;
+    width: 65%;
+    margin: auto;
+    align-items: center;
+    margin-top: 50px;
 }
 .flower-side-img figure img{
-    width: 200px;
-    height: 196px;
+    width: 220px;
+    height: 216px;
 }
 
 
