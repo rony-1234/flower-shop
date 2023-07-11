@@ -176,8 +176,8 @@ body{
 .flower-desc{
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
-    font-size: 18px;
-    line-height: 30px; 
+    font-size: 16px;
+    line-height: 20px; 
 }
 .flower-side-img{
     display: flex;
@@ -191,6 +191,57 @@ body{
     width: 220px;
     height: 216px;
 }
+
+.contact-section{
+    margin-top: 130px;
+    margin-left: 95px;
+    margin-bottom: 245px;
+}
+.contact-banner{
+    background-image: url('../image/Rectangle\ 9.png');
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+    height: 380px;
+    
+}
+.contact-title{
+    padding: 100px 0px 0px ;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    
+}
+.contact-desc{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+.contact-section form{
+
+}
+.contact-banner form input[type="email"]{
+    width: 40%;
+    height: 30px;
+    border-radius: 3px;
+    background: #FFF;
+    text-align: left;
+    padding: 8px;
+    font-size: 16px;
+}
+.contact-banner form input[type="submit"]{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 3px;
+    background: #E55473;
+    padding: 10px;
+}
+
+
+
 
 
 
